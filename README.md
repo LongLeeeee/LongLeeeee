@@ -9,13 +9,40 @@
 
 #### 🔧 Tech Stack
 
+**Operating Systems:**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+</p>
+
+**Containerization & Orchestration:**
+
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+</p>
+
+**Monitoring & Observability:**
+
+<p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+</p>
+
+**Cloud Providers:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+</p>
+
+**Networking:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0E2?style=flat&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-0288D1?style=flat&logo=network-1&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCP/IP-4CAF50?style=flat&logo=protocol&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firewall-F44336?style=flat&logo=firewall&logoColor=white"/>
 </p>
 
 #### 📊 GitHub Stats
