@@ -1,16 +1,39 @@
-### 👋 Hi there, I'm Nguyen Van ABC!
+### 👋 Xin chào, Tôi là Lê Trần Kim LongLong!
 
-🎓 I'm a 3rd-year student majoring in Computer Networks & Data Communications.  
-🛠️ I’m learning Linux, Docker, Kubernetes, and DevOps tools.  
-🌱 Currently building: A hybrid learning monitoring system for 15,000 users.  
-📫 Reach me at: nguyenvanabc@example.com
+🎓 Tôi hiện đang là sinh viên năm 3 ngành Mạng máy tính và Truyền thông dữ liệu.
+
+#### 💻 Programming Languages
+
+<p align="left"> 
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/> </p>
+
+#### 🔧 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+</p>
+
+#### 📊 GitHub Stats
+
+![LongLeeeee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LongLeeeee&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongLeeeee&layout=compact&theme=radical" height="165"/>
+
+### 🎯 Featured Repositories
+
+- 🔭 [Monitoring K3s – OpenWhisk Cluster](https://github.com/LongLeeeee/NT531.P21): Using drone & camera data with YOLOv8
+- 🛰️ [Pothole Detection System on Roads](https://github.com/LongLeeeee/NT118.P12): Xây dựng ứng dụng cho phép người dùng detect và submit vị trí của ổ gà một cách tự động hoặc thủ công.
+- 🧩 [OpenWhisk Serverless Functions](https://github.com/LongLeeeee/NT533.P11): Apache OpenWhisk là một nền tảng Serverless mã nguồn mở, phân tán cho phép thực thi các hàm (function) để phản hồi các sự kiện ở bất kỳ quy mô nào.
 
 ---
 
-#### 🔧 Tech Stack
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+### 📫 Connect with me
 
-#### 📊 GitHub Stats
-![NguyenVanABC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenvanabc&show_icons=true&theme=radical)
+<p align="left">
+  <a href="https://www.linkedin.com/in/long-le-tran-kim-265b42365/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
+  <a href="mailto:longle4689@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
