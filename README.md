@@ -5,7 +5,11 @@
 #### 💻 Programming Languages
 
 <p align="left"> 
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/> </p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white"/>
+</p>
 
 #### 🔧 Tech Stack
 
@@ -57,8 +61,7 @@
 - 🔭 [Monitoring K3s - OpenWhisk Cluster with Prometheus, Grafana](https://github.com/LongLeeeee/NT531.P21): Hệ thống được triển khai giúp giải quyết một số vấn đề thực tiễn quan trọng trong việc giám sát và quản lý hiệu suất của các cụm Kubernetes, và có sự tích hợp với Apache Openwhisk.
 - 🛰️ [Pothole Detection System on Roads](https://github.com/LongLeeeee/NT118.P12): Xây dựng ứng dụng cho phép người dùng detect và submit vị trí của ổ gà một cách tự động hoặc thủ công.
 - 🧩 [OpenWhisk Serverless Functions](https://github.com/LongLeeeee/NT533.P11): Apache OpenWhisk là một nền tảng Serverless mã nguồn mở, phân tán cho phép thực thi các hàm (function) để phản hồi các sự kiện ở bất kỳ quy mô nào.
-
----
+- 💬 [Real-time Chat Application](https://github.com/LongLeeeee/Chat_App): Ứng dụng nhắn tin thời gian thực sử dụng socket chạy trên giao thức TCP và kết nối đến MSSQL server để lưu trữ dữ liệu.
 
 ### 📫 Connect with me
 
