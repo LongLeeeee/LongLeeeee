@@ -1,4 +1,4 @@
-### 👋 Xin chào, Tôi là Lê Trần Kim LongLong!
+### 👋 Xin chào, Tôi là Lê Trần Kim Long!
 
 🎓 Tôi hiện đang là sinh viên năm 3 ngành Mạng máy tính và Truyền thông dữ liệu.
 
