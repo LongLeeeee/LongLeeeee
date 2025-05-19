@@ -20,8 +20,10 @@
 
 #### 📊 GitHub Stats
 
-![LongLeeeee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LongLeeeee&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongLeeeee&layout=compact&theme=radical" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LongLeeeee&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongLeeeee&layout=compact&theme=radical" height="165"/>
+</p>
 
 ### 🎯 Featured Repositories
 
