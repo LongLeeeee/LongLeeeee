@@ -60,6 +60,7 @@
 
 - 🔭 [Monitoring K3s - OpenWhisk Cluster with Prometheus, Grafana](https://github.com/LongLeeeee/NT531.P21): Hệ thống được triển khai giúp giải quyết một số vấn đề thực tiễn quan trọng trong việc giám sát và quản lý hiệu suất của các cụm Kubernetes, và có sự tích hợp với Apache Openwhisk.
 - 🛰️ [Pothole Detection System on Roads](https://github.com/LongLeeeee/NT118.P12): Xây dựng ứng dụng cho phép người dùng detect và submit vị trí của ổ gà một cách tự động hoặc thủ công.
+- 👓 Smart Glasses for the Visually Impaired: Hệ thống kính thông minh hỗ trợ người khiếm thị với khả năng phát hiện vật thể và cảnh báo nguy hiểm theo thời gian thực, tích hợp camera, cảm biến siêu âm, gia tốc, MQTT (EMQX), và AI tracking (YOLO + DeepSORT).
 - 🧩 [OpenWhisk Serverless Functions](https://github.com/LongLeeeee/NT533.P11): Apache OpenWhisk là một nền tảng Serverless mã nguồn mở, phân tán cho phép thực thi các hàm (function) để phản hồi các sự kiện ở bất kỳ quy mô nào.
 - 💬 [Real-time Chat Application](https://github.com/LongLeeeee/Chat_App): Ứng dụng nhắn tin thời gian thực sử dụng socket chạy trên giao thức TCP và kết nối đến MSSQL server để lưu trữ dữ liệu.
 
